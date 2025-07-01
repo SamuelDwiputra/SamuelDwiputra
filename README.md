@@ -18,7 +18,7 @@ I'm a passionate and curious developer with a strong foundation in **web develop
 - `Swift`, `SwiftUI`
   
 **Previously Worked With:**
-- `JavaScript`, `React.js`, `Laravel`, `PHP`, `Firebase`, `MySQL`
+- `JavaScript`, `React.js`, `Laravel`, `PHP`, `Firebase`, `MySQL`, `Java`
 
 **Tools & Platforms:**
 - Xcode, VSCode, Git, Figma, Firebase, GitHub
