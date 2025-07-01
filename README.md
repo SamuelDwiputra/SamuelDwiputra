@@ -37,23 +37,26 @@ An iPad app that uses machine learning to classify waste items using the camera 
 ### 🍱 KastuGo  
 An iOS meal-ordering app for a food service brand (Kasturi), enabling multiple users to place group orders using a single iPhone.  
 Tech: `SwiftUI`, `SwiftData`, `PDFKit`
+> Built as part of Apple Developer Academy project with a focus on native components and getting started with Swift.
 
 ### 🌿 GrowHub  
 A Laravel-based web platform for ordering plants and landscaping/gardening services from multiple sellers.  
 Tech: `PHP`, `Laravel`, `MySQL`, `Blade`
+> Built as part of Binus University Web Development project 
 
 ### 🔧 Otocare  
 A React + Firebase website for finding trusted auto repair shops based on tire repair, oil changes, or battery services.  
 Tech: `React.js`, `Firebase Firestore`, `Auth`
+> Built as part of Binus University Software Engineering project
 
 
 ---
 
 ## 📚 What I'm Learning Now
 
-- Building robust iOS apps using **SwiftUI**
-- Advanced architectural patterns like **MVVM**
-- Integrating Apple APIs (e.g., AppIntents, CoreML)
+- Building more complicated iOS apps using **SwiftUI**
+- Advanced architectural patterns like **MVVM & VIPER,**
+- Integrating more Apple APIs 
 - Enhancing accessibility and performance in mobile UI
 
 ---
@@ -61,9 +64,7 @@ Tech: `React.js`, `Firebase Firestore`, `Auth`
 ## 🌐 Let's Connect
 
 - 📫 [samdwiputra@gmail.com](mailto:samdwiputra@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/samueldwiputra)  
-- 🧑‍💻 [Portfolio (Coming Soon)](https://your-portfolio-url.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/samuel-dwiputra-tjan/)
 
 ---
 
-> “The best way to predict the future is to invent it.” – Alan Kay
