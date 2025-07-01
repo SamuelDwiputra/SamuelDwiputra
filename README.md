@@ -15,13 +15,12 @@ I'm a passionate and curious developer with a strong foundation in **web develop
 ## 🧰 Tech Stack
 
 **Currently Working With:**
-- `Swift`, `SwiftUI`, `UIKit`, `Combine`, `CoreData`, `PDFKit`, `AppIntents`
-
+- `Swift`, `SwiftUI`
 **Previously Worked With:**
 - `JavaScript`, `React.js`, `Laravel`, `PHP`, `Firebase`, `MySQL`
 
 **Tools & Platforms:**
-- Xcode, Git, Figma, Firebase, Postman, GitHub, Notion
+- Xcode, VSCode, Git, Figma, Firebase, GitHub
 
 ---
 
